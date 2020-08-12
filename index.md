@@ -3,7 +3,7 @@ Un programma che permette di creare una cartella che contiene tutti i collegamen
 
 <h3>Download</h3>
 
-[Eseguibile .bat](https://github.com/ParliamoDiPC/InstallStartMenu/releases/download/v1/InstallGodMode.bat)
+[Eseguibile .bat](https://github.com/ParliamoDiPC/InstallStartMenu/releases/download/v1/InstallStartMenu.bat)
 
 <h3>Codice sorgente</h3>
 
